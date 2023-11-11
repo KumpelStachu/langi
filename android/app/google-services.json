@@ -1,0 +1,72 @@
+{
+  "project_info": {
+    "project_number": "1087936669343",
+    "firebase_url": "https://langi-app-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "langi-app",
+    "storage_bucket": "langi-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087936669343:android:c56ce821e90fbe251924aa",
+        "android_client_info": {
+          "package_name": "dev.kums.langi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087936669343-8b6p829gad3ie14gum92sfodek5bh9fg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.kums.langi",
+            "certificate_hash": "f533c5e232530d31e94fd5e77614db8fce73524e"
+          }
+        },
+        {
+          "client_id": "1087936669343-pa914qpm1og6r4o5cq15oov7l3j9tvrs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.kums.langi",
+            "certificate_hash": "4a60feeef6d573ebc4b1e1ef760214e0ef0089e8"
+          }
+        },
+        {
+          "client_id": "1087936669343-vmnvqvokm4j93hbn8k5o924druq729b1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.kums.langi",
+            "certificate_hash": "94b9ae7ff594212a15267b7a437a038791f623d3"
+          }
+        },
+        {
+          "client_id": "1087936669343-7k1o4bpg5oq1f5tdbmelvkkk8gec4259.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcSAET7bTNDGIOv3c8JOCHlYR1kmm2EME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087936669343-7k1o4bpg5oq1f5tdbmelvkkk8gec4259.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1087936669343-0s9vpj1v3q0l855j6rt5d8j6rhbbfqmk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.kums.langi"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3424996550663655~1819188676"
+    }
+  ],
+  "configuration_version": "1"
+}

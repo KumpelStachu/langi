@@ -1,0 +1,55 @@
+name: langi
+description: Langi is an app that helps you learn English using AI.
+publish_to: none
+version: 1.1.0+6
+
+environment:
+  sdk: ">=3.0.5 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  dynamic_color: ^1.6.6
+  gap: ^3.0.1
+  provider: ^6.0.5
+  shared_preferences: ^2.2.0
+  url_launcher: ^6.1.12
+  google_mobile_ads: ^3.0.0
+  firebase_core: ^2.15.0
+  firebase_auth: ^4.7.2
+  firebase_database: ^10.2.4
+  firebase_app_check: ^0.1.5+1
+  firebase_remote_config: ^4.2.4
+  firebase_analytics: ^10.4.4
+  firebase_ui_auth: ^1.6.2
+  firebase_ui_oauth_google: ^1.2.7
+  cloud_functions: ^4.3.4
+
+dev_dependencies:
+  flutter_lints: ^2.0.2
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/icon.png"
+  min_sdk_android: 16
+  web:
+    generate: true
+    image_path: "assets/icon/icon.png"
+    background_color: "#hexcode"
+    theme_color: "#hexcode"
+  windows:
+    generate: true
+    image_path: "assets/icon/icon.png"
+    icon_size: 256
+  macos:
+    generate: true
+    image_path: "assets/icon/icon.png"

@@ -1,0 +1,20 @@
+{
+	"files.exclude": {
+		".vscode": true,
+		".dart_tool": true,
+		".idea": true,
+		".metadata": true,
+		"*.iml": true,
+		"*.lock": true,
+		"*.flutter-plugins*": true,
+		"android": true,
+		"ios": true,
+		"windows": true,
+		"linux": true,
+		"macos": true,
+		"web": true,
+		"build": true
+	},
+	"color-highlight.enable": false,
+	"discord.enabled": true
+}
